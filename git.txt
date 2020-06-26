@@ -1,0 +1,5 @@
+git clone https://github.com/hyun77320/study.git
+git add
+git commit
+git push
+git pull
